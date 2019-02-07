@@ -1,2 +1,54 @@
-# BlockchainGas
-Understanding gas on the Ethereum blockchain
+# Understanding Gas on the Ethereum blockchain
+A blockchain is a globally shared, transactional database.
+The Ethereum virtual machine -(EVM) is an isolated and sandboxed runtime environment.
+Every Transaction which is a message sent from one account to another account on the Ethereum network costs gas.
+The purpose of charging gas for transactions is to limit the amount of workthat is needed
+to execute the transaction and to pay for this execution at the same time.
+
+
+# Gas
+A unit of transactional cost on the blockchain. In other words the crypto fuel required to perform transaction on 
+Ethereum blockchain
+
+# Gas price: 
+The gas price field represents the amount of Wei required to execute a transaction.
+It is a value representing how much Ether the user is willing to pay per gas.
+ 
+ `Total Gas Cost =  gas_price * gas_used`
+
+
+My motivation is to practise coding anytime anywhere
+
+## Technologies
+* pragma solidity  - version >=0.4.0 <0.6.0;
+
+## Setup
+Tested written code directly on remix.ethereum.org
+
+## Code Examples
+Declare a state variable of type address that is publicly accessible
+
+
+
+Map an address to unint values
+
+ `mapping (address => uint) public balances;`
+     
+  Constructor will fire when this contract is created
+  Set inventor as creater of this contract:
+  
+  ` constructor() public {
+     inventor = msg.sender;
+   }`
+
+## Status
+Project is: _finished_
+
+## Inspiration
+Credits to Solidity documentation
+
+## Contact
+Created by [Raynold](https://ca.linkedin.com/in/raynold-gyasi-036631119) - feel free to contact me!
+
+
+
