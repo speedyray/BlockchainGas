@@ -84,7 +84,7 @@ Project is: _finished_
 Credits to Solidity documentation
 
 ## Contact
-Created by [Raynold](https://ca.linkedin.com/in/raynold-gyasi-036631119) - feel free to contact me!
+Created by [Raynold](https://ca.linkedin.com/in/raynold-gyasi-036631119) - Email:speedyray2ray@gmail.com Feel free to contact me!
 
 
 
