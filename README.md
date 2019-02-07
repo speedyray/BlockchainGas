@@ -72,4 +72,4 @@ Credits to Solidity documentation
 Created by [Raynold](https://ca.linkedin.com/in/raynold-gyasi-036631119) - feel free to contact me!
 
 
-
+![Gas Cost](./gas.png)
