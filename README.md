@@ -77,12 +77,8 @@ In total, 0.00000060 Ether is the total gas that will be charged.
  
  0.000000020 * 20 = 0.00000040 Ether`
  
-
-## Status
-Project is: _finished_
-
-## Inspiration
-Credits to Research and Solidity documentation
+## Helpful links
+Open source project which aims to increase the transparency of gas prices is[ETH Gas Station](https://ethgasstation.info/index.php)
 
 ## Contact
 Created by [Raynold](https://ca.linkedin.com/in/raynold-gyasi-036631119) - Email:speedyray2ray@gmail.com Feel free to contact me!
