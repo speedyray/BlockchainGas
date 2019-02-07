@@ -29,6 +29,7 @@ It is a value representing how much Ether the user is willing to pay per gas.
  Opcodes or bytecodes are instructions for the EVM.Each opcode costs a certain amount of gas.
  
  A good list of available opcodes can be found on the [Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+ ![Opcodes Yellow Paper](./opcodes.png)
  
 The different gas requirements can be found on [page 26 in the Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
