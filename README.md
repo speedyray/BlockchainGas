@@ -30,7 +30,7 @@ It is a value representing how much Ether the user is willing to pay per gas.
  
  A good list of available opcodes can be found on the [Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
  
- 
+![Yellow Paper](./opcodes .png)
  
 The different gas requirements can be found on [page 26 in the Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
