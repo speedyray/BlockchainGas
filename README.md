@@ -32,6 +32,7 @@ It is a value representing how much Ether the user is willing to pay per gas.
  
 The different gas requirements can be found on [page 26 in the Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
+![Gas Cost](./pictures/gas.png)
 
 
 
