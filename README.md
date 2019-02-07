@@ -53,7 +53,7 @@ Gas is charged under these scenarios and circumstances on the blockchain
 * When computations are performed on operations
 * When there is a message call or contract creation  
 
-![CGas Charges](./gastable)
+![CGas Charges](./gastable.png)
 
 ## Technologies
 * pragma solidity  - version >=0.4.0 <0.6.0;
