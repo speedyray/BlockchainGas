@@ -31,6 +31,7 @@ It is a value representing how much Ether the user is willing to pay per gas.
  A good list of available opcodes can be found on the [Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
  
 
+![Gas Cost](./opcodes.png)
  
 The different gas requirements can be found on [page 26 in the Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
@@ -72,4 +73,4 @@ Credits to Solidity documentation
 Created by [Raynold](https://ca.linkedin.com/in/raynold-gyasi-036631119) - feel free to contact me!
 
 
-![Gas Cost](./opcodes .png)
+
