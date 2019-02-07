@@ -20,7 +20,19 @@ The gas price field represents the amount of Wei required to execute a transacti
 Wei is the smallest denomination of ether on Ethereum blockchain
 It is a value representing how much Ether the user is willing to pay per gas.
  
- `Total Gas Cost =  gas_price * gas_used`
+ `Total Gas Cost/ Total transaction cost =  gas_price * gas_used`
+
+
+ # Gas Costs
+ Transactional operations on the Ethereum blockchain is done by following the bytecode or opcodes.
+ 
+ Opcodes or bytecodes are instructions for the EVM.Each opcode costs a certain amount of gas.
+ 
+ A good list of available opcodes can be found on the [Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+ 
+The different gas requirements can be found on [page 26 in the Ethereum Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+
+
 
 
 My motivation is to practise coding anytime anywhere
