@@ -72,7 +72,7 @@ In total, 0.00000060 Ether is the total gas that will be charged.
 `sload = 20 gas
  gasPrice = 20Gwei or 0.000000020 Ether
  Total cost = gasUsed * gasPrice
- 0.000000020 * 20 = 0.00000040 Ether
+ 0.000000020 * 20 = 0.00000040 Ether`
  
 
 ## Status
