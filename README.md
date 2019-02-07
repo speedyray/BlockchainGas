@@ -20,7 +20,7 @@ The gas price field represents the amount of Wei required to execute a transacti
 Wei is the smallest denomination of ether on Ethereum blockchain
 It is a value representing how much Ether the user is willing to pay per gas.
  
- `Total Gas Cost/ Total transaction cost =  gas_price * gas_used`
+ `Total Gas Cost or Total transaction cost =  gas_price * gas_used`
 
 
  # Gas Costs
