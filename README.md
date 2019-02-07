@@ -62,39 +62,24 @@ Table below shows a typical transaction cost chart
 
 
 
-As an example
-calculation of the SHA-3 operation can be calculated as follows:
-SHA-3 costs 30 gas.
-Assume that current gas price is 25 GWei, convert it into ether, which is
-0.000000025 Ether. After multiplying both: 0.000000025 * 30, we get 0.00000075
+As an example, from the table,  an sload transaction costs 20 gas
+Assume that current gas price is 20 GWei, convert it into ether, which is
+0.000000020 Ether. After multiplying both: 0.000000020 * 20, we get 0.00000040
 Ether.
-In total, 0.00000075 Ether is the total gas that will be charged.
-## Technologies
-* pragma solidity  - version >=0.4.0 <0.6.0;
-
-
+In total, 0.00000060 Ether is the total gas that will be charged.
 
 ## Code Examples
-Declare a state variable of type address that is publicly accessible
-
-
-
-Map an address to unint values
-
- `mapping (address => uint) public balances;`
-     
-  Constructor will fire when this contract is created
-  Set inventor as creater of this contract:
-  
-  ` constructor() public {
-     inventor = msg.sender;
-   }`
+`sload = 20 gas
+ gasPrice = 20Gwei or 0.000000020 Ether
+ Total cost = gasUsed * gasPrice
+ 0.000000020 * 20 = 0.00000040 Ether
+ 
 
 ## Status
 Project is: _finished_
 
 ## Inspiration
-Credits to Solidity documentation
+Credits to Research and Solidity documentation
 
 ## Contact
 Created by [Raynold](https://ca.linkedin.com/in/raynold-gyasi-036631119) - Email:speedyray2ray@gmail.com Feel free to contact me!
