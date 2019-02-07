@@ -53,13 +53,26 @@ Gas is charged under these scenarios and circumstances on the blockchain
 * When computations are performed on operations
 * When there is a message call or contract creation  
 
+## Gas Cost Table 
+Table below shows a typical transaction cost chart
+
 ![CGas Charges](./gastable.png)
 
+
+
+
+
+As an example
+calculation of the SHA-3 operation can be calculated as follows:
+SHA-3 costs 30 gas.
+Assume that current gas price is 25 GWei, convert it into ether, which is
+0.000000025 Ether. After multiplying both: 0.000000025 * 30, we get 0.00000075
+Ether.
+In total, 0.00000075 Ether is the total gas that will be charged.
 ## Technologies
 * pragma solidity  - version >=0.4.0 <0.6.0;
 
-## Setup
-Tested written code directly on remix.ethereum.org
+
 
 ## Code Examples
 Declare a state variable of type address that is publicly accessible
