@@ -66,7 +66,7 @@ As an example, from the table,  an sload transaction costs 20 gas
 Assume that current gas price is 20 GWei, convert it into ether, which is
 0.000000020 Ether. After multiplying both: 0.000000020 * 20, we get 0.00000040
 Ether.
-In total, 0.00000060 Ether is the total gas that will be charged.
+In total, 0.00000040 Ether is the total gas that will be charged.
 
 ## Code Examples
 `sload = 20 gas
