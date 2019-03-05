@@ -4,7 +4,7 @@ The Ethereum virtual machine -(EVM) is an isolated and sandboxed runtime environ
 Every Transaction which is a message sent from one account to another account on the Ethereum network costs gas.
 
 # Why the Ethereum blockchain needs gas?
-The Ethereum virtual machine is a computationally universal machine, a Turing complete machine that is limited by the amount of gas
+The Ethereum virtual machine is a computational universal machine, a Turing complete machine that is limited by the amount of gas
 required to run any instruction.This means that infinite loops that can potentially result in
 denial of service attacks by hackers are not possible due to gas requirements.Soon the loops run out of gas or fuel.
 The purpose of charging gas for transactions is to limit the amount of work that is needed
