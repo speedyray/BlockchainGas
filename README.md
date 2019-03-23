@@ -12,6 +12,7 @@ to execute the transaction and to pay for this execution at the same time.
 
 
 # Gas
+It is the internal pricing mechanism for running transactions, processes and smart contracts on the blockchain
 A unit of transactional cost on the blockchain. In other words the crypto fuel required to perform transaction on 
 Ethereum blockchain
 
